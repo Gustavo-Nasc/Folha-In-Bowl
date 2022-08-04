@@ -1,5 +1,9 @@
 # Folha in Bowl Website Responsive
 
+<div align="center">
+    <img src="./.github/preview.png" width="80%">
+</div>
+
 ## Responsive Website Restaurante
 Projeto desenvolvido por meio do canal [Bedimcode](https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ) no [Youtube](https://www.youtube.com).
 
